@@ -1,6 +1,6 @@
 ## Cadastro Produto (Python Execel)
 
-este script
+Este é um simples script Python que permite ao usuário adicionar produtos e seus preços a uma planilha Excel.
  
 ## Requisitos
 
